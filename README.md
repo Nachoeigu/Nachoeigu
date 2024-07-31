@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nacho Eigu. 
 
-## 👀 Passionate about Data Analysis, Data Engineering, Data Science, Artificial Intelligence (AI) & Blockchain.
+## 👀 Passionate about Artificial Intelligence (AI), Data Engineering, Data Science, Data Analysis & Blockchain.
 
 I'm a 28 years old argentinean and spanish citizen. With 5 years in the Software Engineering -focus on Data Ecosystem-, I help companies automate workflows with AI and generating insights from raw data for decision making.
 
