@@ -8,7 +8,7 @@ I'm a 28 years old argentinean and spanish citizen. With 5 years in the Software
 
 - 🌱 I'm a perpetual learner, always in **sponge mode**, absorbing new knowledge and the latest technology. This ongoing learning journey helps me stay at the forefront of the ever-evolving world of data.
 
-- 📫 You can reach me through email at `ignacio.eiguren@gmail.com` or connect with me on **LinkedIn**: [Ignacio Eiguren Riva](https://www.linkedin.com/in/ignacio-eiguren).
+- 📫 You can reach me through **LinkedIn**: [Ignacio Eiguren Riva](https://www.linkedin.com/in/ignacio-eiguren).
 
 Feel free to explore my GitHub repositories to see my work in action!
 
